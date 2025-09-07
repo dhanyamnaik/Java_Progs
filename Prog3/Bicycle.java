@@ -15,4 +15,5 @@ public class Bicycle extends Vehicle {
   System.out.println("Delivering"+item+"to"+place+" by Bicycle"); 
   
  
+
  } 
